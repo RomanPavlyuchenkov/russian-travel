@@ -1,0 +1,10 @@
+.place__block-text{
+    grid-column: 2/3;
+}
+
+@media (max-width:767px){
+    .place__block-text{
+        grid-column: 1/2;
+        padding: 0 16px;
+    }
+}

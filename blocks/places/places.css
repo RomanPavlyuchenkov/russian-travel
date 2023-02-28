@@ -1,0 +1,16 @@
+.places{
+    display: grid;
+    justify-content: center;
+    gap: 80px;
+    padding-bottom: 92px;
+}
+
+
+@media (max-width:767px){
+    .places{
+        gap: 50px;
+        padding-bottom: 66px;
+    }
+}
+
+
