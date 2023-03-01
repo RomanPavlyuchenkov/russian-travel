@@ -4,7 +4,6 @@
 
 @media (max-width:767px){
     .place__website{
-        align-self: end;
         grid-row: 2/3;
         padding: 0 16px;
     }
